@@ -4,8 +4,8 @@ It's a quick way to show support for this openly available code. ⭐
 ![OReilly_logo_rgb.png](resources%2FOReilly_logo_rgb.png)
 
 # AI Agents - The definitive Guide
-This is the corresponding code for the book Transformers - The definitive Guide
-The book can be found [here](https://oreillymedia.pxf.io/ZQOjdW)
+This is the corresponding code for the book AI Agents - The definitive Guide
+The book can be found [here](oreillymedia.pxf.io/POEx4e)
 
 ## TOC
 - Chapter 1 From LLMs to Agents: The Foundational Blueprint
